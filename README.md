@@ -4,3 +4,5 @@ How to use visual you may ask?
  After that choose the amount of accounts you wanna create (these are bot accounts with random users)
  After being created you should find the account's user name and password in accounts.txt they should look like this username:password
  And thats all you need to know.
+
+This probably won't work because of the captcha.
